@@ -1,0 +1,8 @@
+npm create vite@latest frontend -- --template react
+PS D:\Projects\ContactList> cd frontend
+PS D:\Projects\ContactList\frontend> npm install 
+PS D:\Projects\ContactList\frontend> cd..
+PS D:\Projects\ContactList> cd backend
+PS D:\Projects\ContactList\backend> pip install Flask
+PS D:\Projects\ContactList\backend> pip install Flask-SQLAlchemy     is an ORM (Object Relational Mapping) used for connecting to SQL database and then map the date entries into python.
+PS D:\Projects\ContactList\backend> pip install flask-cors      
